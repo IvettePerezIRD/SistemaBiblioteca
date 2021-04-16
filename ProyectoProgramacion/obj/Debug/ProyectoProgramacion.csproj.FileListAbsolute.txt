@@ -1,0 +1,354 @@
+C:\Users\Administrador\Desktop\Pro2\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe.config
+C:\Users\Administrador\Desktop\Pro2\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form1.resources
+C:\Users\Administrador\Desktop\Pro2\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Pro2\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Pro2\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe
+C:\Users\Administrador\Desktop\Pro2\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.pdb
+C:\Users\Administrador\Desktop\Pro2\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.exe
+C:\Users\Administrador\Desktop\Pro2\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.pdb
+C:\Users\Administrador\Desktop\Pro2\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Pro2\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form2.resources
+C:\Users\Administrador\Desktop\Pro2\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form3.resources
+C:\Users\Administrador\Desktop\Pro2\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form4.resources
+C:\Users\Administrador\Desktop\Pro2\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form5.resources
+F:\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe.config
+F:\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.exe
+F:\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csprojResolveAssemblyReference.cache
+F:\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form1.resources
+F:\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form2.resources
+F:\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form3.resources
+F:\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form4.resources
+F:\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form5.resources
+F:\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Properties.Resources.resources
+F:\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csproj.GenerateResource.Cache
+F:\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe
+F:\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.pdb
+F:\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.pdb
+F:\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\Dll_LibreriaClase.dll
+F:\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\Dll_LibreriaClase.pdb
+N:\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe.config
+N:\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.exe
+N:\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.pdb
+N:\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe
+N:\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.pdb
+N:\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\Dll_LibreriaClase.dll
+N:\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\Dll_LibreriaClase.pdb
+N:\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csprojResolveAssemblyReference.cache
+N:\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form1.resources
+N:\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form2.resources
+N:\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form3.resources
+N:\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form4.resources
+N:\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form5.resources
+N:\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Properties.Resources.resources
+N:\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csproj.GenerateResource.Cache
+I:\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe.config
+I:\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.exe
+I:\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.pdb
+I:\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csprojResolveAssemblyReference.cache
+I:\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form1.resources
+I:\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form2.resources
+I:\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form3.resources
+I:\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form4.resources
+I:\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form5.resources
+I:\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Properties.Resources.resources
+I:\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csproj.GenerateResource.Cache
+I:\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe
+I:\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.pdb
+I:\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\Dll_LibreriaClase.dll
+I:\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\Dll_LibreriaClase.pdb
+C:\Users\Administrador\Desktop\Pro2\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\Dll_LibreriaClase.dll
+C:\Users\Administrador\Desktop\Pro2\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\Dll_LibreriaClase.pdb
+C:\Users\Administrador\Desktop\Pro2\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form6.resources
+C:\Users\Administrador\Desktop\Pro2\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form7.resources
+C:\Users\Administrador\Desktop\ESCRITORIO\Pro2\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe.config
+C:\Users\Administrador\Desktop\ESCRITORIO\Pro2\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.exe
+C:\Users\Administrador\Desktop\ESCRITORIO\Pro2\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.pdb
+C:\Users\Administrador\Desktop\ESCRITORIO\Pro2\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe
+C:\Users\Administrador\Desktop\ESCRITORIO\Pro2\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.pdb
+C:\Users\Administrador\Desktop\ESCRITORIO\Pro2\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\Dll_LibreriaClase.dll
+C:\Users\Administrador\Desktop\ESCRITORIO\Pro2\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\Dll_LibreriaClase.pdb
+C:\Users\Administrador\Desktop\ESCRITORIO\Pro2\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\ESCRITORIO\Pro2\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form1.resources
+C:\Users\Administrador\Desktop\ESCRITORIO\Pro2\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form2.resources
+C:\Users\Administrador\Desktop\ESCRITORIO\Pro2\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form3.resources
+C:\Users\Administrador\Desktop\ESCRITORIO\Pro2\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form4.resources
+C:\Users\Administrador\Desktop\ESCRITORIO\Pro2\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form5.resources
+C:\Users\Administrador\Desktop\ESCRITORIO\Pro2\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form6.resources
+C:\Users\Administrador\Desktop\ESCRITORIO\Pro2\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form7.resources
+C:\Users\Administrador\Desktop\ESCRITORIO\Pro2\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Properties.Resources.resources
+C:\Users\Administrador\Desktop\ESCRITORIO\Pro2\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csproj.GenerateResource.Cache
+C:\Users\yory\Desktop\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe.config
+C:\Users\yory\Desktop\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.exe
+C:\Users\yory\Desktop\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.pdb
+C:\Users\yory\Desktop\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe
+C:\Users\yory\Desktop\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.pdb
+C:\Users\yory\Desktop\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\Dll_LibreriaClase.dll
+C:\Users\yory\Desktop\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\Dll_LibreriaClase.pdb
+C:\Users\yory\Desktop\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csprojResolveAssemblyReference.cache
+C:\Users\yory\Desktop\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form1.resources
+C:\Users\yory\Desktop\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form2.resources
+C:\Users\yory\Desktop\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form3.resources
+C:\Users\yory\Desktop\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form4.resources
+C:\Users\yory\Desktop\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form5.resources
+C:\Users\yory\Desktop\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form6.resources
+C:\Users\yory\Desktop\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form7.resources
+C:\Users\yory\Desktop\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Properties.Resources.resources
+C:\Users\yory\Desktop\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csproj.GenerateResource.Cache
+C:\Users\yory\Desktop\Nueva carpeta (3)\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe.config
+C:\Users\yory\Desktop\Nueva carpeta (3)\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.exe
+C:\Users\yory\Desktop\Nueva carpeta (3)\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.pdb
+C:\Users\yory\Desktop\Nueva carpeta (3)\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csprojResolveAssemblyReference.cache
+C:\Users\yory\Desktop\Nueva carpeta (3)\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form1.resources
+C:\Users\yory\Desktop\Nueva carpeta (3)\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Properties.Resources.resources
+C:\Users\yory\Desktop\Nueva carpeta (3)\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csproj.GenerateResource.Cache
+C:\Users\yory\Desktop\Nueva carpeta (3)\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe
+C:\Users\yory\Desktop\Nueva carpeta (3)\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.pdb
+C:\Users\yory\Desktop\Nueva carpeta (3)\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\Dll_LibreriaClase.dll
+C:\Users\yory\Desktop\Nueva carpeta (3)\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\Dll_LibreriaClase.pdb
+C:\Users\yory\Desktop\Nueva carpeta (3)\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form9.resources
+C:\Users\yory\Desktop\sistemas en c#\ProyectoProgramacion - copia\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe.config
+C:\Users\yory\Desktop\sistemas en c#\ProyectoProgramacion - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.exe
+C:\Users\yory\Desktop\sistemas en c#\ProyectoProgramacion - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.pdb
+D:\sistemas en c#\ProyectoProgramacion - copia\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe.config
+D:\sistemas en c#\ProyectoProgramacion - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.exe
+D:\sistemas en c#\ProyectoProgramacion - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.pdb
+D:\sistemas en c#\ProyectoProgramacion - copia\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe
+D:\sistemas en c#\ProyectoProgramacion - copia\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.pdb
+D:\sistemas en c#\ProyectoProgramacion - copia\ProyectoProgramacion\bin\Debug\Dll_LibreriaClase.dll
+D:\sistemas en c#\ProyectoProgramacion - copia\ProyectoProgramacion\bin\Debug\Dll_LibreriaClase.pdb
+D:\sistemas en c#\ProyectoProgramacion - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csprojResolveAssemblyReference.cache
+D:\sistemas en c#\ProyectoProgramacion - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form1.resources
+D:\sistemas en c#\ProyectoProgramacion - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form9.resources
+D:\sistemas en c#\ProyectoProgramacion - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Properties.Resources.resources
+D:\sistemas en c#\ProyectoProgramacion - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csproj.GenerateResource.Cache
+C:\Users\yory\Desktop\ProyectoProgramacion - copia\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe.config
+C:\Users\yory\Desktop\ProyectoProgramacion - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.exe
+C:\Users\yory\Desktop\ProyectoProgramacion - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.pdb
+C:\Users\yory\Desktop\ProyectoProgramacion - copia\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe
+C:\Users\yory\Desktop\ProyectoProgramacion - copia\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.pdb
+C:\Users\yory\Desktop\ProyectoProgramacion - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csprojResolveAssemblyReference.cache
+C:\Users\yory\Desktop\ProyectoProgramacion - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Properties.Resources.resources
+C:\Users\yory\Desktop\ProyectoProgramacion - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csproj.GenerateResource.Cache
+C:\Users\yory\Desktop\ProyectoProgramacion - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.usuario.resources
+C:\Users\yory\Desktop\ProyectoProgramacion - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Libro.resources
+C:\Users\yory\Desktop\ProyectoProgramacion - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.registro.resources
+C:\Users\yory\Desktop\ProyectoProgramacion - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Editorial.resources
+C:\Users\yory\Desktop\ProyectoProgramacion - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.devolucion.resources
+C:\Users\yory\Desktop\ProyectoProgramacion - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.autor.resources
+C:\Users\yory\Desktop\ProyectoProgramacion - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_devolucion.resources
+C:\Users\yory\Desktop\ProyectoProgramacion - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_libros_existentes.resources
+C:\Users\yory\Desktop\ProyectoProgramacion - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_libros_prestados.resources
+C:\Users\yory\Desktop\ProyectoProgramacion - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_usuarios.resources
+C:\Users\yory\Desktop\ProyectoProgramacion - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.login.resources
+C:\Users\yory\Desktop\ProyectoProgramacion - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.menu.resources
+C:\Users\yory\Desktop\ProyectoProgramacion - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.f.resources
+C:\Users\yory\Desktop\sistema de bibleoteca\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe.config
+C:\Users\yory\Desktop\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.exe
+C:\Users\yory\Desktop\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.pdb
+C:\Users\yory\Desktop\sistema de bibleoteca\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe
+C:\Users\yory\Desktop\sistema de bibleoteca\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.pdb
+C:\Users\yory\Desktop\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csprojResolveAssemblyReference.cache
+C:\Users\yory\Desktop\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.autor.resources
+C:\Users\yory\Desktop\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_devolucion.resources
+C:\Users\yory\Desktop\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_libros_existentes.resources
+C:\Users\yory\Desktop\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_libros_prestados.resources
+C:\Users\yory\Desktop\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_usuarios.resources
+C:\Users\yory\Desktop\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.devolucion.resources
+C:\Users\yory\Desktop\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Editorial.resources
+C:\Users\yory\Desktop\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.f.resources
+C:\Users\yory\Desktop\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.login.resources
+C:\Users\yory\Desktop\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.menu.resources
+C:\Users\yory\Desktop\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Libro.resources
+C:\Users\yory\Desktop\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Properties.Resources.resources
+C:\Users\yory\Desktop\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.registro.resources
+C:\Users\yory\Desktop\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.usuario.resources
+C:\Users\yory\Desktop\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csproj.GenerateResource.Cache
+C:\Users\yory\Desktop\sistema de bibleoteca - copia\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe.config
+C:\Users\yory\Desktop\sistema de bibleoteca - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.exe
+C:\Users\yory\Desktop\sistema de bibleoteca - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.pdb
+C:\Users\yory\Desktop\sistema de bibleoteca - copia\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe
+C:\Users\yory\Desktop\sistema de bibleoteca - copia\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.pdb
+C:\Users\yory\Desktop\sistema de bibleoteca - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csprojResolveAssemblyReference.cache
+C:\Users\yory\Desktop\sistema de bibleoteca - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.autor.resources
+C:\Users\yory\Desktop\sistema de bibleoteca - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_devolucion.resources
+C:\Users\yory\Desktop\sistema de bibleoteca - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_libros_existentes.resources
+C:\Users\yory\Desktop\sistema de bibleoteca - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_libros_prestados.resources
+C:\Users\yory\Desktop\sistema de bibleoteca - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_usuarios.resources
+C:\Users\yory\Desktop\sistema de bibleoteca - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.devolucion.resources
+C:\Users\yory\Desktop\sistema de bibleoteca - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Editorial.resources
+C:\Users\yory\Desktop\sistema de bibleoteca - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.f.resources
+C:\Users\yory\Desktop\sistema de bibleoteca - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.login.resources
+C:\Users\yory\Desktop\sistema de bibleoteca - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.menu.resources
+C:\Users\yory\Desktop\sistema de bibleoteca - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Libro.resources
+C:\Users\yory\Desktop\sistema de bibleoteca - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Properties.Resources.resources
+C:\Users\yory\Desktop\sistema de bibleoteca - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.registro.resources
+C:\Users\yory\Desktop\sistema de bibleoteca - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.usuario.resources
+C:\Users\yory\Desktop\sistema de bibleoteca - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csproj.GenerateResource.Cache
+C:\Users\yory\Desktop\sistema de bibleoteca - vilcanota\sistema de bibleoteca - vilcanota\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe.config
+C:\Users\yory\Desktop\sistema de bibleoteca - vilcanota\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.exe
+C:\Users\yory\Desktop\sistema de bibleoteca - vilcanota\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.pdb
+C:\Users\yory\Desktop\sistema de bibleoteca - vilcanota\sistema de bibleoteca - vilcanota\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe
+C:\Users\yory\Desktop\sistema de bibleoteca - vilcanota\sistema de bibleoteca - vilcanota\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.pdb
+C:\Users\yory\Desktop\sistema de bibleoteca - vilcanota\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csprojResolveAssemblyReference.cache
+C:\Users\yory\Desktop\sistema de bibleoteca - vilcanota\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.autor.resources
+C:\Users\yory\Desktop\sistema de bibleoteca - vilcanota\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_devolucion.resources
+C:\Users\yory\Desktop\sistema de bibleoteca - vilcanota\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_libros_existentes.resources
+C:\Users\yory\Desktop\sistema de bibleoteca - vilcanota\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_libros_prestados.resources
+C:\Users\yory\Desktop\sistema de bibleoteca - vilcanota\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_usuarios.resources
+C:\Users\yory\Desktop\sistema de bibleoteca - vilcanota\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.devolucion.resources
+C:\Users\yory\Desktop\sistema de bibleoteca - vilcanota\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Editorial.resources
+C:\Users\yory\Desktop\sistema de bibleoteca - vilcanota\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.f.resources
+C:\Users\yory\Desktop\sistema de bibleoteca - vilcanota\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.login.resources
+C:\Users\yory\Desktop\sistema de bibleoteca - vilcanota\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.menu.resources
+C:\Users\yory\Desktop\sistema de bibleoteca - vilcanota\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Libro.resources
+C:\Users\yory\Desktop\sistema de bibleoteca - vilcanota\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Properties.Resources.resources
+C:\Users\yory\Desktop\sistema de bibleoteca - vilcanota\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.registro.resources
+C:\Users\yory\Desktop\sistema de bibleoteca - vilcanota\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.usuario.resources
+C:\Users\yory\Desktop\sistema de bibleoteca - vilcanota\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csproj.GenerateResource.Cache
+C:\Users\yory\Desktop\sistema de bibleoteca - vilcanota\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Form1.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - vilcanota\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe.config
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.exe
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.pdb
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csprojResolveAssemblyReference.cache
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.autor.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_devolucion.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_libros_existentes.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_libros_prestados.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_usuarios.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.devolucion.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Editorial.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.f.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.login.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.menu.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Libro.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Properties.Resources.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.registro.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.usuario.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csproj.GenerateResource.Cache
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - vilcanota\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - vilcanota\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.pdb
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.report_useuario.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\RdlCompile.cache
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\RdlCompile.compiled
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.report_prestam.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - vilcanota\ProyectoProgramacion\bin\Debug\labase1.mdb
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.impri_devolu.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.impri_libros.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.impri_prestam.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - vilcanota\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.impri_user.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe.config
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.exe
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.pdb
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\bin\Debug\labase1.mdb
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.pdb
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csprojResolveAssemblyReference.cache
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.autor.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_devolucion.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_libros_existentes.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_libros_prestados.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_usuarios.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.devolucion.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Editorial.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.f.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.impri_devolu.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.impri_libros.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.impri_prestam.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.impri_user.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.login.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.menu.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Libro.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Properties.Resources.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.registro.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.report_prestam.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.report_useuario.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.usuario.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csproj.GenerateResource.Cache
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\RdlCompile.cache
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\RdlCompile.compiled
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Registrarse.resources
+C:\Users\yory\Desktop\sistema de odontologia\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Registrar_nuevo_usuario.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe.config
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.exe
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.pdb
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csprojResolveAssemblyReference.cache
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.autor.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_devolucion.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_libros_existentes.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_libros_prestados.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_usuarios.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.devolucion.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Editorial.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.f.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.impri_devolu.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.impri_libros.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.impri_prestam.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.impri_user.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.login.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.menu.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Libro.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Properties.Resources.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.registro.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.report_prestam.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.report_useuario.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.usuario.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csproj.GenerateResource.Cache
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\RdlCompile.cache
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792\ProyectoProgramacion\obj\Debug\RdlCompile.compiled
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792\ProyectoProgramacion\bin\Debug\labase1.mdb
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.pdb
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792 - copia\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe.config
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792 - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.exe
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792 - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.pdb
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792 - copia\ProyectoProgramacion\bin\Debug\labase1.mdb
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792 - copia\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792 - copia\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.pdb
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792 - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csprojResolveAssemblyReference.cache
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792 - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.autor.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792 - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_devolucion.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792 - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_libros_existentes.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792 - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_libros_prestados.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792 - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_usuarios.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792 - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.devolucion.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792 - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Editorial.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792 - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.f.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792 - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.impri_devolu.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792 - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.impri_libros.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792 - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.impri_prestam.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792 - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.impri_user.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792 - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.login.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792 - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.menu.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792 - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Libro.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792 - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Properties.Resources.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792 - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.registro.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792 - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.report_prestam.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792 - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.report_useuario.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792 - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.usuario.resources
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792 - copia\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csproj.GenerateResource.Cache
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792 - copia\ProyectoProgramacion\obj\Debug\RdlCompile.cache
+G:\SIATEMA DE BIBLIOTECA\sistema de bibleoteca - 792 - copia\ProyectoProgramacion\obj\Debug\RdlCompile.compiled
+C:\Users\Lalo\Desktop\proyecto\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csprojAssemblyReference.cache
+C:\Users\Lalo\Desktop\proyecto\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.autor.resources
+C:\Users\Lalo\Desktop\proyecto\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_devolucion.resources
+C:\Users\Lalo\Desktop\proyecto\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_libros_existentes.resources
+C:\Users\Lalo\Desktop\proyecto\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_libros_prestados.resources
+C:\Users\Lalo\Desktop\proyecto\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.cunsulta_usuarios.resources
+C:\Users\Lalo\Desktop\proyecto\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.devolucion.resources
+C:\Users\Lalo\Desktop\proyecto\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Editorial.resources
+C:\Users\Lalo\Desktop\proyecto\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.f.resources
+C:\Users\Lalo\Desktop\proyecto\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.impri_devolu.resources
+C:\Users\Lalo\Desktop\proyecto\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.impri_libros.resources
+C:\Users\Lalo\Desktop\proyecto\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.impri_prestam.resources
+C:\Users\Lalo\Desktop\proyecto\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.impri_user.resources
+C:\Users\Lalo\Desktop\proyecto\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.login.resources
+C:\Users\Lalo\Desktop\proyecto\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.menu.resources
+C:\Users\Lalo\Desktop\proyecto\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Libro.resources
+C:\Users\Lalo\Desktop\proyecto\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.Properties.Resources.resources
+C:\Users\Lalo\Desktop\proyecto\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.registro.resources
+C:\Users\Lalo\Desktop\proyecto\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.report_prestam.resources
+C:\Users\Lalo\Desktop\proyecto\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.report_useuario.resources
+C:\Users\Lalo\Desktop\proyecto\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.usuario.resources
+C:\Users\Lalo\Desktop\proyecto\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csproj.GenerateResource.cache
+C:\Users\Lalo\Desktop\proyecto\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.exe
+C:\Users\Lalo\Desktop\proyecto\sistema de bibleoteca\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.pdb

@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9553B5D2-7827-44E0-9E09-485BE1F34DD8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ProyectoProgramacion</RootNamespace>
+    <AssemblyName>ProyectoProgramacion</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ICONO DE BIBLEOTECA.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="autor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="autor.Designer.cs">
+      <DependentUpon>autor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="cunsultas\cunsulta_devolucion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cunsultas\cunsulta_devolucion.Designer.cs">
+      <DependentUpon>cunsulta_devolucion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cunsultas\cunsulta_libros-existentes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cunsultas\cunsulta_libros-existentes.Designer.cs">
+      <DependentUpon>cunsulta_libros-existentes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cunsultas\cunsulta_libros_prestados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cunsultas\cunsulta_libros_prestados.Designer.cs">
+      <DependentUpon>cunsulta_libros_prestados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cunsultas\cunsulta_usuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cunsultas\cunsulta_usuarios.Designer.cs">
+      <DependentUpon>cunsulta_usuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="devolucion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="devolucion.Designer.cs">
+      <DependentUpon>devolucion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Editorial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Editorial.Designer.cs">
+      <DependentUpon>Editorial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="f.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="f.Designer.cs">
+      <DependentUpon>f.cs</DependentUpon>
+    </Compile>
+    <Compile Include="impri_devolu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="impri_devolu.Designer.cs">
+      <DependentUpon>impri_devolu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="impri_libros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="impri_libros.Designer.cs">
+      <DependentUpon>impri_libros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="impri_prestam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="impri_prestam.Designer.cs">
+      <DependentUpon>impri_prestam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="impri_user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="impri_user.Designer.cs">
+      <DependentUpon>impri_user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="labase1DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>labase1DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menu.Designer.cs">
+      <DependentUpon>menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Libro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Libro.Designer.cs">
+      <DependentUpon>Libro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="registro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registro.Designer.cs">
+      <DependentUpon>registro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report_prestam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report_prestam.Designer.cs">
+      <DependentUpon>report_prestam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report_useuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report_useuario.Designer.cs">
+      <DependentUpon>report_useuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="usuario.Designer.cs">
+      <DependentUpon>usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="validar.cs" />
+    <EmbeddedResource Include="autor.resx">
+      <DependentUpon>autor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cunsultas\cunsulta_devolucion.resx">
+      <DependentUpon>cunsulta_devolucion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cunsultas\cunsulta_libros-existentes.resx">
+      <DependentUpon>cunsulta_libros-existentes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cunsultas\cunsulta_libros_prestados.resx">
+      <DependentUpon>cunsulta_libros_prestados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cunsultas\cunsulta_usuarios.resx">
+      <DependentUpon>cunsulta_usuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="devolucion.resx">
+      <DependentUpon>devolucion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Editorial.resx">
+      <DependentUpon>Editorial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="f.resx">
+      <DependentUpon>f.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="impri_devolu.resx">
+      <DependentUpon>impri_devolu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="impri_libros.rdlc" />
+    <EmbeddedResource Include="impri_libros.resx">
+      <DependentUpon>impri_libros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="impri_prestam.resx">
+      <DependentUpon>impri_prestam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="impri_user.resx">
+      <DependentUpon>impri_user.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menu.resx">
+      <DependentUpon>menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Libro.resx">
+      <DependentUpon>Libro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registro.resx">
+      <DependentUpon>registro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="impri_presta.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Report_prestamo.rdlc" />
+    <EmbeddedResource Include="Report_usuario.rdlc" />
+    <EmbeddedResource Include="report_prestam.resx">
+      <DependentUpon>report_prestam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report_useuario.resx">
+      <DependentUpon>report_useuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="usuario.resx">
+      <DependentUpon>usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="labase1DataSet.xsc">
+      <DependentUpon>labase1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="labase1DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>labase1DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="labase1DataSet.xss">
+      <DependentUpon>labase1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Book.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Salir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Book3 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chehk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen2332.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ICONO DE BIBLEOTECA.ico" />
+    <Content Include="labase1.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\Sin título-1-Recuperado.png" />
+    <None Include="Resources\i.e.792.gif" />
+    <None Include="Resources\1212.png" />
+    <None Include="Resources\fondo_portada.png" />
+    <None Include="Resources\impres.png" />
+    <None Include="Resources\icono-de-impresora-del-vector-14574274.jpg" />
+    <None Include="Resources\Book3 %281%291.png" />
+    <None Include="Resources\addressbook_add-32.png" />
+    <None Include="Resources\Agregar.png" />
+    <None Include="Resources\devol1.png" />
+    <None Include="Resources\devol.png" />
+    <None Include="Resources\aid_theapplication_2963.png" />
+    <None Include="Resources\help-37118.jpg" />
+    <None Include="Resources\user_info.png" />
+    <None Include="Resources\devo.png" />
+    <None Include="Resources\pie de pagina.png" />
+    <None Include="Resources\LOGIN%28%29.png" />
+    <None Include="Resources\Imagen de fondo.png" />
+    <None Include="Resources\lili.png" />
+    <None Include="Resources\986.png" />
+    <None Include="Resources\pie de pagina2.png" />
+    <None Include="Resources\search_computer10pt-32.png" />
+    <None Include="Resources\market_research-32.png" />
+    <None Include="Resources\fondo.png" />
+    <None Include="Resources\libro1.png" />
+    <None Include="Resources\libro.png" />
+    <None Include="Resources\usuario.png" />
+    <None Include="Resources\biblioteca.jpg" />
+    <None Include="Resources\jjhgjg.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
